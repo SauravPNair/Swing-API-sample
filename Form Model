@@ -1,5 +1,5 @@
 package Model;
-
+//sour
 public class regModel {
 		int id,age;
 		String name;
